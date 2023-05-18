@@ -11,4 +11,5 @@
     4. Branch Python Operator (Verifica o grau de temperatura , mandando o e-mail de alerta ou informativo );
     5. DatabricksOperator (Cria a tabela e Insere Dados no BD);
     
+    
   <link>https://whimsical.com/turbina-eolica-vertical-HapdrJPBcaozePY3FjXv25</link>
