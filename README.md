@@ -14,4 +14,3 @@
     
   <link>https://whimsical.com/turbina-eolica-vertical-HapdrJPBcaozePY3FjXv25</link>
     
- <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/HapdrJPBcaozePY3FjXv25"></iframe>
