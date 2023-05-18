@@ -13,6 +13,7 @@
     
     
   <link>https://whimsical.com/turbina-eolica-vertical-HapdrJPBcaozePY3FjXv25</link>
-  <br>  </br>
-  <center><img src="src/assets/to_readme/TURBINA_EOLICA.png" alt="centered image" height="598" width="398"> </center>
+  <p align="center">
+  <img  width="100" height="100" src="https://picsum.photos/100/100"><img src="src/assets/to_readme/TURBINA_EOLICA.png" alt="centered image"> 
+  </p>
     
