@@ -4,7 +4,7 @@
 
 ##  1) DEFINIÇÃO DE UM PROBLEMA 
 
-  Garantir o acompnhamento dos valores atingidos da temperatura gerada 
+  Garantir o acompnhamento dos valores atingidos da temperatura gerada no processo de geração de energia
 
 ## 2) DEFINIÇÃO INGESTÃO EM DADOS (LOCAL DA ORIGEM, PODE JA EXISTIR OU PODE SER GERADO)
  
