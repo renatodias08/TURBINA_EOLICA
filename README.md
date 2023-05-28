@@ -18,6 +18,9 @@
  ## 4) IMAGEM DOCKER 
 
 Airflow,
-Nifi
+Nifi,
+Logstash
+Elasticsearch
+Kibana
 
 ## 5) SUBIR NO GIT
