@@ -13,7 +13,7 @@
 ## 3) DEFINIÇÃO ARQUITETURA (DESENHO NO MINIMO DE 2 PARTES DO TODO INGESTÃO E AMAZENAMENTO)
   <p> Link whimsical <a href="https://whimsical.com/turbina-eolica-vertical-HapdrJPBcaozePY3FjXv25">https://whimsical.com/turbina-eolica-vertical</a></p>
 
-![image](src/assets/to_readme/TURBINA_EOLICA_V3.png)
+![image](src/assets/to_readme/TURBINA_EOLICA_V4.png)
 
  ## 4) IMAGEM DOCKER 
 
