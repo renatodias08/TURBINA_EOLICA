@@ -16,12 +16,12 @@
 
   <p>Turbina Eólica que vai produzir dados e gerar insumos para os sensores mapearem os valores atingidos da temperatura, informando a normalidade ou críticas no processo de geração de energia:</p>
 
-       Gerar Arquivo Json (Intervalo de 3 minutos );
-       File Sensor monitora a Pasta;
-       Pytho Opertaion (Ler as variáveis do arquivo, colocar as variáveis no Xcom e excluir o arquivo ); 
-       Branch Python Operator (Verifica o grau de temperatura , mandando o e-mail de alerta ou informativo );
-       DatabricksOperator (Cria a tabela e Insere Dados no BD);
-       Entrega  dos relatórios pelo Kibana e Power BI;
+    · Gerar Arquivo Json (Intervalo de 3 minutos );
+    · File Sensor monitora a Pasta;
+    · Pytho Opertaion (Ler as variáveis do arquivo, colocar as variáveis no Xcom e excluir o arquivo ); 
+    · Branch Python Operator (Verifica o grau de temperatura , mandando o e-mail de alerta ou informativo );
+    · DatabricksOperator (Cria a tabela e Insere Dados no BD);
+    · Entrega  dos relatórios pelo Kibana e Power BI;
 
 
 ![image](src/assets/to_readme/TURBINA_EOLICA_V4.png)
