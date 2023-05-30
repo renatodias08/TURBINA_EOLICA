@@ -21,7 +21,7 @@
     · Spring Boot faz a transformação e envia para o Kafka;
     · Spring Boot consome os dados do kafka e gera os arquivos na  pasta do sensor do Airflow; 
     · Trilha de auditoria/log sendo processado pelo logstash;
-    · Logstash fazendo a ingestão e transformação dos dados para elasticsearch;
+    · Logstash fazendo a ingestão e transformação dos dados para o elasticsearch;
     · Visualização dentro do kibana;
     · File Sensor monitora a Pasta;
     · Pytho Opertaion (Ler as variáveis do arquivo, colocar as variáveis no Xcom e excluir o arquivo ); 
