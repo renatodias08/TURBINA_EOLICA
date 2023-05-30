@@ -16,7 +16,10 @@
 
   <p>Turbina Eólica que vai produzir dados e gerar insumos para os sensores mapearem os valores atingidos da temperatura, informando a normalidade ou críticas no processo de geração de energia:</p>
 
-    · Gerar Arquivo Json (Intervalo de 3 minutos );
+    · Turbina gera a requisição no formato json (Intervalo de 3 minutos );
+    · RabbitMQ recebe essas informações 
+    · Spring Boot faz a transformação e envia para o Kafka;
+    · Spring Boot consome os dados do kafka e gera os arquivos na  pasta do sensor do Airflow; 
     · File Sensor monitora a Pasta;
     · Pytho Opertaion (Ler as variáveis do arquivo, colocar as variáveis no Xcom e excluir o arquivo ); 
     · Branch Python Operator (Verifica o grau de temperatura , mandando o e-mail de alerta ou informativo );
