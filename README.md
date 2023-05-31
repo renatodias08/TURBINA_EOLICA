@@ -18,7 +18,7 @@
 
     · Turbina gera a requisição no formato json (Intervalo de 3 minutos );
     · RabbitMQ recebe essas informações; 
-    · Spring Boot faz a transformação e envia para o Kafka;
+    · Nifi faz a transformação e envia para o Kafka;
     · Spring Boot consome os dados do kafka e gera os arquivos na  pasta do sensor do Airflow; 
     · Trilha de auditoria/log sendo processado pelo logstash;
     · Logstash fazendo a ingestão e transformação dos dados para o elasticsearch;
